@@ -43,6 +43,17 @@ Les données brutes contenaient volontairement des anomalies réalistes : doublo
 2. Pour les clients inactifs depuis moins de 90 jours, une relance automatique ou une notification promotionnelle peut suffire à réactiver leur usage
 3. Approfondir l'analyse en croisant l'inactivité avec la région, pour cibler les actions terrain
 
+   ## Aperçu du dashboard
+
+### Vue d'ensemble
+![Vue d'ensemble - Affaires](affaires.png)
+
+### Clients à risque
+![Analyse des clients à risque](analyse-risque.png)
+
+### Analyse des ventes
+![Analyse des ventes](ventes.png)
+
 ## Auteur
 
 Dieu Donné — Data Analyst Junior
